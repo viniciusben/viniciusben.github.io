@@ -9,3 +9,7 @@ color:black;
 img{
         width: 680px;
 }
+
+img:hover{
+        transform:scaleX(-1)
+}
